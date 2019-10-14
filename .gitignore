@@ -1,0 +1,7 @@
+/venv/
+/db.sqlite3
+/manage.py
+/api/apps/authentication/migrations/
+/api/apps/core/migrations/
+/api/apps/licences/migrations/
+/api/apps/profiles/migrations/
